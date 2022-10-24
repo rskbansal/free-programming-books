@@ -188,6 +188,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
 * [Competitive Programming, 1st Edition](https://cpbook.net/#CP1details) - Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 * [Competitive Programming, 2nd Edition](https://cpbook.net/#CP2details) - Steven Halim [(PDF)](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf)
+* [Guide to Competitive Programming](https://p300.zlibcdn.com/dtoken/c2b7a94a37573cd935e0ee634674fb6f/Guide%20to%20Competitive%20Programming%20Learning%20and%20Improving%20Algorithms%20Through%20Contests%20%28Undergraduate%20Topics%20in%20Computer%20Science%29%20%28Antti%20Laaksonen%29%20%28z-lib.org%29.pdf) - Antti Laaksonen (PDF)
 * [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
 
 
